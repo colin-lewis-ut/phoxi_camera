@@ -132,7 +132,6 @@ target_link_libraries(
 
 install(
   PROGRAMS
-    src/phoxi_camera_example.py
     DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
  )
 
